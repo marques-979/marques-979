@@ -14,8 +14,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div> 
   <a href="http://www.youtube.com/@marques-9798" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/marques_979?igsh=MWdqNzZ0dWhmbXk1cg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
