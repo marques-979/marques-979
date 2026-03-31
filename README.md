@@ -1,22 +1,82 @@
 ## Bem-vindo(a) ao perfil 😁
+<h1 align="center"> Olá, eu sou o Ismael</h1>
 
- <div>
-   <a href="https://github.com/marques-979">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques-979&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques-979&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
+<p align="center">
+💻 Desenvolvedor em formação | ☕ Foco em Java | 🚀 Apaixonado por tecnologia
+</p>
+
+---
+
+##  Sobre mim
+-  Estudante de Tecnologia
+-  Focado em desenvolvimento Java e Web
+-  Aprendendo todos os dias sobre programação
+-  Objetivo: me tornar Desenvolvedor Profissional
+
+---
+
+## 🧠 Atualmente focado em:
+- ☕ Java (POO, aplicações, Android)
+- 🌐 HTML, CSS e JavaScript
+- 🗄️ Banco de Dados (MySQL)
+
+---
+
+##  Tecnologias que uso
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JAVA" width="30" height="40" src="https://github.com/user-attachments/assets/ca471039-aaf1-46d2-b1cc-2ed5347acff6" />
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marques-979&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marques-979&theme=tokyonight"/>
 
 </div>
- 
-<br>
- 
-<div> 
-  <a href="http://www.youtube.com/@marques-9798" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marques_979?igsh=MWdqNzZ0dWhmbXk1cg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+---
+
+##  Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marques-979&theme=tokyo-night"/>
+
 </div>
+---
+
+##  Sequência de contribuições
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=marques-979&theme=tokyonight"/>
+</div>
+
+---
+
+
+
+##  Redes sociais
+
+<div> 
+  <a href="http://www.youtube.com/@marques-9798" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/marques_979" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 💡 Frase
+
+> "A prática leva à perfeição no código." 🚀
