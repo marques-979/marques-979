@@ -15,10 +15,10 @@
 
 ---
 
-## 🧠 Atualmente focado em:
-- ☕ Java (POO, aplicações, Android)
-- 🌐 HTML, CSS e JavaScript
-- 🗄️ Banco de Dados (MySQL)
+##  Atualmente focado em:
+-  Java (POO, aplicações, Android)
+-  HTML, CSS e JavaScript
+-  Banco de Dados (MySQL)
 
 ---
 
