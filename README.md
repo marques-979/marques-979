@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil 😁
+## Bem-vindo(a) ao perfil 
 <h1 align="center"> Olá, eu sou o Ismael</h1>
 
 <p align="center">
-💻 Desenvolvedor em formação | ☕ Foco em Java | 🚀 Apaixonado por tecnologia
+ Desenvolvedor em formação | Foco em Java | Apaixonado por tecnologia
 </p>
 
 ---
@@ -77,6 +77,6 @@
 
 ---
 
-## 💡 Frase
+## Frase
 
-> "A prática leva à perfeição no código." 🚀
+> "A prática leva à perfeição no código." 
